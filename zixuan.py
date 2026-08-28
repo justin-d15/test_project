@@ -7,3 +7,4 @@ while num <= 100000:
 print(f"we have {count} even numbers")
 
 print("test 123")
+print("test 234")
